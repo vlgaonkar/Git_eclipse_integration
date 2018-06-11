@@ -10,7 +10,7 @@ public class SampleTest {
 		
 		int a = 1;
 		int b = 2;
-		assertTrue(a + b == 3)/*testing integration*/;
+		assertTrue(a + b == 3)/*testing integration again after connecting to mobile network*/;
 	}
 	@Test
 	public void SampleTestFail(){
